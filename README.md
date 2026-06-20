@@ -5,7 +5,7 @@ Terms and Privacy Policy for KBGxHelper, an EPIC RPG Galaxy helper bot
 
 Created: 20 June 2026, Last modified: 20 June 2026
 
-KBGxHelper is a Discord helper bot for EPIC RPG Galaxy/GX modules. It helps users store module data, calculate optimal to use builds, and generate cleanup suggestions for easier module removals.
+KBGxHelper is a Discord helper bot for EPIC RPG Galaxy/GX modules. It helps users store module data, calculate useful module builds, and generate cleanup suggestions for easier module removals.
 
 KBGxHelper is not affiliated with Discord or EPIC RPG.
 
@@ -85,6 +85,6 @@ This Privacy Policy may be updated from time to time. Changes will be posted at 
 
 ### Contact
 
-For questions or concerns, contact the bot operator on Discord:
+For questions or concerns, contact the bot operator:
 
 kbhelpers.contact@gmail.com
